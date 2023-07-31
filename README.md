@@ -8,16 +8,16 @@ Una página web para el instituto técnico Aquilio Parra de Barichara Santander,
 Si quieres contactarme, puedes escribirme a mi correo electrónico o seguirme en mis redes sociales. También puedes visitar mi sitio web, donde encontrarás mi portafolio y mi blog.
 
 ## 🛠 Skills
-1. Desarrollo web:
-- JavaScript
-- Css
-- Html
+**1. Desarrollo web:**
+  - JavaScript
+  - Css
+  - Html
 
-2. Framework:
-- Bootstrap
+**2. Framework:**
+  - Bootstrap
 
-3. Desarrollo mobile:
-- React Native
+**3. Desarrollo mobile:**
+  - React Native
 
 <!--
 **DonatoSilva/DonatoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
