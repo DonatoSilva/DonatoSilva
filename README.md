@@ -8,17 +8,66 @@ Una página web para el instituto técnico Aquilio Parra de Barichara Santander,
 Si quieres contactarme, puedes escribirme a mi correo electrónico o seguirme en mis redes sociales. También puedes visitar mi sitio web, donde encontrarás mi portafolio y mi blog.
 
 ## 🛠 Skills
-**1. Desarrollo web:**
-  - JavaScript
-  - Css
-  - Html
+<table>
+  <tr>
+    <td> 
+      <strong>1. 💻Desarrollo Web:</strong>
+      <ul>
+        <li>JavaScript</li>
+        <li>Css</li>
+        <li>Html</li>
+      </ul>
+    </td>
+    <td>
+      <strong>2. 📱Desarrollo mobile:</strong>
+      <ul>
+        <li>React Native</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+      <strong>3. Framework:</strong>
+      <ul>
+        <li>Bootstrap</li>
+      </ul>
+    </td>
+    <td> 
+      <strong>4. Controladores de versiones:</strong>
+      <ul>
+        <li>Git</li>
+        <li>GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**2. Framework:**
-  - Bootstrap
+## Contactame
+- _Telefono:_ +57 3166705238
+- _Correo:_ figueroajesus2015@hotmail.com
 
-**3. Desarrollo mobile:**
-  - React Native
+## **Proyectos**
 
+### _El junco_
+capturas...
+descripcion...
+
+### _Hermes_
+
+**_1. Pagina web_**
+
+capturas...
+descripcion...
+
+**_2. App mobile_**
+
+capturas...
+descripcion...
+
+### _Pagina Itap_
+
+capturas...
+descripcion...
 <!--
 **DonatoSilva/DonatoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
