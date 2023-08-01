@@ -20,7 +20,7 @@ Actualmente estoy en el ultimo año del tecnologo en desarrollo de software en l
 <table>
   <tr>
     <td> 
-      <strong>1. 💻Desarrollo Web:</strong>
+      <strong>1. Desarrollo Web:</strong>
       <ul>
         <li>JavaScript</li>
         <li>Css</li>
@@ -28,7 +28,7 @@ Actualmente estoy en el ultimo año del tecnologo en desarrollo de software en l
       </ul>
     </td>
     <td>
-      <strong>2. 📱Desarrollo mobile:</strong>
+      <strong>2. Desarrollo mobile:</strong>
       <ul>
         <li>React Native</li>
       </ul>
@@ -77,9 +77,7 @@ descripcion...
 
 ### _Pagina Itap_
 
-capturas...
-
-descripcion...
+> _No cuento con imagenes respecto al proyecto, luego de que salí de la institucion no continuaron con este por lo mismo actualmente no esta ni en produccion, ni en desarrollo._
 
 ## ☎️ Contactame
 - _Telefono:_ +57 3166705238
