@@ -7,6 +7,11 @@ Una página web para el instituto técnico Aquilio Parra de Barichara Santander,
 
 Si quieres contactarme, puedes escribirme a mi correo electrónico o seguirme en mis redes sociales. También puedes visitar mi sitio web, donde encontrarás mi portafolio y mi blog.
 
+## 🧑🏻 Mas sobre mi
+**1. Educacion:**
+
+**2. Hobbies:**
+
 ## 🛠 Skills
 <table>
   <tr>
@@ -42,14 +47,12 @@ Si quieres contactarme, puedes escribirme a mi correo electrónico o seguirme en
   </tr>
 </table>
 
-## Contactame
-- _Telefono:_ +57 3166705238
-- _Correo:_ figueroajesus2015@hotmail.com
-
-## **Proyectos**
+## Proyectos
 
 ### _El junco_
+
 capturas...
+
 descripcion...
 
 ### _Hermes_
@@ -57,28 +60,21 @@ descripcion...
 **_1. Pagina web_**
 
 capturas...
+
 descripcion...
 
 **_2. App mobile_**
 
 capturas...
+
 descripcion...
 
 ### _Pagina Itap_
 
 capturas...
+
 descripcion...
-<!--
-**DonatoSilva/DonatoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☎️ Contactame
+- _Telefono:_ +57 3166705238
+- _Correo:_ figueroajesus2015@hotmail.com
