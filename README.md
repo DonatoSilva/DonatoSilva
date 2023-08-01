@@ -76,8 +76,9 @@ capturas...
 descripcion...
 
 ### _Pagina Itap_
+Proyecto desarrollado en grupo entre inicio del año 2017 y 2018, el cual trataba de una página web donde se pudiera transmitir la esencia del Instituto Técnico Aquileo Parra. Se logró contar con un diseño adaptativo, pero simple, un registro de usuario, un apartado de blog (**Noticias**) y un apartado para galería de los eventos institucionales realizados. Se utilizaron tecnologías como Ruby, CSS, JavaScript y HTML. Mi poca experiencia en ese tiempo causó que su desarrollo fuera poco eficiente y la complejidad de manipulación para los administradores fuera muy grande. Como experiencia propia, fue mi primer proyecto que alcanzó a subir a un servidor con dominio propio. 
 
-> _No cuento con imagenes respecto al proyecto, luego de que salí de la institucion no continuaron con este por lo mismo actualmente no esta ni en produccion, ni en desarrollo._
+> _No cuento con imagenes respecto al proyecto, luego de que salí de la institucion no continuaron con el proyecto por lo mismo actualmente no esta ni en produccion, ni en desarrollo._
 
 ## ☎️ Contactame
 - _Telefono:_ +57 3166705238
