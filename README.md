@@ -51,7 +51,7 @@ Actualmente estoy en el ultimo año del tecnologo en desarrollo de software en l
 ## 🗃️ Proyectos
 
 ### _El junco_
-Enlace al repositorio: [Click aqui](https://pages.github.com/)
+**Enlace al repositorio:** [Click aqui](https://github.com/DonatoSilva/El-Junco.git)
 
 **Descripcion:** Se dio inicio al desarrollo del proyecto en el mes de Junio del 2023, el cual lo tome como un pasatiempo para darle solucion a una clinica de guadañas dos tiempo de mi localidad, la idea de esto es lograr desarrollar una pagina web responsive que siga el proceso de los pacientes, incluyendo el sistema de facturacion y que a su vez brinde la funcion de un stock de productos dando un listado de los productos que estan por agotarce, por otra parte los dueños me comentaron que desean que la pagina les permita llevar un control de sus ingresos y egresos del negocio y el hogar.
 
