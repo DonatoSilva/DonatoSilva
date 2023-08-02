@@ -33,8 +33,7 @@ Actualmente estoy en el ultimo año del tecnologo en desarrollo de software en l
 
 | N° | Nombre |
 |-----:|-----------|
-|     1| Git       |
-|     2| GitHub    |
+|     1|Bootstrap  |
 </details>
 
 <details>
