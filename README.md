@@ -62,7 +62,12 @@ Actualmente estoy en el ultimo año del tecnologo en desarrollo de software en l
 - Toastify (_Libreria_)
 
 **Cap. de pantalla:**
-cargando...
+
+<img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
+<img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
+<img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
+<img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
+<img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
 
 >Actualmente el proyecto continua en **_DESARROLLO_**.
 
