@@ -1,5 +1,6 @@
-# 👋 Un gusto tenerte acá, Soy Jesus Donato Silva.
-![banner perfil de github](https://lh3.googleusercontent.com/pw/AIL4fc--L4gX_B_akWtxAMSflZmEA0uTzGDGppUeSwHW7yPotX1yZMlPTZwJIcNSaM0XmWdKprrkYWgavNlnrL8fwJE3kz1CiqMHq8rlgzswb2dgAeyTi4wVX3U1nWsTftqd0QwzeGOA6cdHNQ7zim2IR-VApXLl4ImeDd9OYuwgplVsMKKOBHxshah4GekKJaQ2wdFAgpBXjrjFzgp5okrjfqW2nGnKmxFL9ehkO12u4H7wc0Hl8ZBcuOxm4zlqK_H4-PrxYA4omBsustF2E5ZQ8rFoAv59mz8i4mXxr6sfkX-4gBg02NJTvNOvPyQj6R_Ud7oXnoXk80qWiRpMhRQrg6eS4XDN0BsBJykNgpcmAMfHJ_8-5GwxEHKMu94eG7oerfqCXQlbfrAljnJNkyVXGjwKiJec0Y1FPbXMMaJWrQBncEiZEc_xOlmP1La2BZC3d_vUz8TghzoqPbe2hUghFLveiYN0oXwaHqTkgMDfxCGJ5tSl1_-R8SXzodW2CA1ntCUk5lEpGronOO-qh8zvfXPThVgjK7pLVGvu4qTt_e0rL9JkghsRM-BoYOjAdKsWDAQqehKzV8w_qN3SlZ8icjS-JzeNV6E7SrgGzlkW4WNrSEiWZP-bBv_Mj4UzYlLvMtqw4-iSG6zkkORwyz83zH3Y97Qhg8bDeWwfWWhHm9XCQtmoGm3bl49RvGvtTSEJjaEsD5RrYqwYLrANZT54AwzfERnd0OZqt-JXf6ou7ZQiGeeNaidTqg93xo7xUUY8Qb6n6MsY9Z6GEpds6MiMe4i2V5NRmipKm3A6QEH0z4RR_y0kHtjg1o_PBtx6MI8ySQc1AqOW1QYH-YtFXDNqz5EeUQ18CDZb4JLNYzPd0Fd-9CvvECcjbvLjEqikUZ7mb9JfZ76CKCUYrePogiDZ9yo0pXfzSrgh4lTMfh-kf2tdKgx36sukTFzZks70Ej65=w1410-h794-s-no?authuser=0)
+<div align='center'><img src='https://lh3.googleusercontent.com/pw/AIL4fc--L4gX_B_akWtxAMSflZmEA0uTzGDGppUeSwHW7yPotX1yZMlPTZwJIcNSaM0XmWdKprrkYWgavNlnrL8fwJE3kz1CiqMHq8rlgzswb2dgAeyTi4wVX3U1nWsTftqd0QwzeGOA6cdHNQ7zim2IR-VApXLl4ImeDd9OYuwgplVsMKKOBHxshah4GekKJaQ2wdFAgpBXjrjFzgp5okrjfqW2nGnKmxFL9ehkO12u4H7wc0Hl8ZBcuOxm4zlqK_H4-PrxYA4omBsustF2E5ZQ8rFoAv59mz8i4mXxr6sfkX-4gBg02NJTvNOvPyQj6R_Ud7oXnoXk80qWiRpMhRQrg6eS4XDN0BsBJykNgpcmAMfHJ_8-5GwxEHKMu94eG7oerfqCXQlbfrAljnJNkyVXGjwKiJec0Y1FPbXMMaJWrQBncEiZEc_xOlmP1La2BZC3d_vUz8TghzoqPbe2hUghFLveiYN0oXwaHqTkgMDfxCGJ5tSl1_-R8SXzodW2CA1ntCUk5lEpGronOO-qh8zvfXPThVgjK7pLVGvu4qTt_e0rL9JkghsRM-BoYOjAdKsWDAQqehKzV8w_qN3SlZ8icjS-JzeNV6E7SrgGzlkW4WNrSEiWZP-bBv_Mj4UzYlLvMtqw4-iSG6zkkORwyz83zH3Y97Qhg8bDeWwfWWhHm9XCQtmoGm3bl49RvGvtTSEJjaEsD5RrYqwYLrANZT54AwzfERnd0OZqt-JXf6ou7ZQiGeeNaidTqg93xo7xUUY8Qb6n6MsY9Z6GEpds6MiMe4i2V5NRmipKm3A6QEH0z4RR_y0kHtjg1o_PBtx6MI8ySQc1AqOW1QYH-YtFXDNqz5EeUQ18CDZb4JLNYzPd0Fd-9CvvECcjbvLjEqikUZ7mb9JfZ76CKCUYrePogiDZ9yo0pXfzSrgh4lTMfh-kf2tdKgx36sukTFzZks70Ej65=w1410-h794-s-no?authuser=0' alt='Banner del perfil' width='60%'/></div>
+
+# Bienvenido, Soy Jesus Donato Silva. 👋🏻
 
 Hola, soy un desarrollador ubicado en un pueblito de Santander Colombia con sueños de ser fullstack. Estudié desarrollo de software en la Universidad Nacional Abierta y a Distacia. Me especializo en el frontend con HTML, CSS y JavaScript, y he usado React Native y Git/GitHub para crear aplicaciones móviles. Algunos de mis proyectos son:
 
@@ -63,23 +64,15 @@ Actualmente estoy en el ultimo año del tecnologo en desarrollo de software en l
 
 **Cap. de pantalla:**
 
-<img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_19213_127.0.0.1.jpeg' alt='inicio de sesion' width='45%'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191551_127.0.0.1.jpeg' alt='inicio de sesion' width='45%'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191626_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191644_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_19249_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
+<div align='center'>
+  <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_19213_127.0.0.1.jpeg' alt='inicio de sesion' width='45%'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191551_127.0.0.1.jpeg' alt='inicio de sesion' width='45%'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191626_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191644_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_19249_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
+</div>
 
->Actualmente el proyecto continua en **_DESARROLLO_**.
+> ℹ️ Actualmente el proyecto continua en **_DESARROLLO_**.
 
 ### _Hermes_
 
-**_1. Pagina web_**
-
-capturas...
-
-descripcion...
-
-**_2. App mobile_**
-
-capturas...
-
-descripcion...
+> ⚠️ Actualmente esta en **Desarrollo**
 
 ### _Pagina Itap_
 **Descripcion:** Proyecto desarrollado en grupo entre inicio del año 2017 y 2018, el cual trataba de una página web donde se pudiera transmitir la esencia del Instituto Técnico Aquileo Parra. Se logró contar con un diseño adaptativo, pero simple, un registro de usuario, un apartado de blog (**Noticias**) y un apartado para galería de los eventos institucionales realizados. Se utilizaron tecnologías como Ruby, CSS, JavaScript y HTML. Mi poca experiencia en ese tiempo causó que su desarrollo fuera poco eficiente y la complejidad de manipulación para los administradores fuera muy grande. Como experiencia propia, fue mi primer proyecto que alcanzó a subir a un servidor con dominio propio. 
