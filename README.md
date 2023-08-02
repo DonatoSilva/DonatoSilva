@@ -2,7 +2,7 @@
 
 # Bienvenido, Soy Jesus Donato Silva. 👋🏻
 
-Hola, soy un desarrollador ubicado en un pueblito de Santander Colombia con sueños de ser fullstack. Estudié desarrollo de software en la Universidad Nacional Abierta y a Distacia. Me especializo en el frontend con HTML, CSS y JavaScript, y he usado React Native y Git/GitHub para crear aplicaciones móviles. Algunos de mis proyectos son:
+Hola, soy un desarrollador ubicado en un pueblito de Santander Colombia con sueños de ser fullstack. Estudié desarrollo de software en la Universidad Nacional Abierta y a Distancia. Me especializo en el frontend con HTML, CSS y JavaScript, y he usado React Native y Git/GitHub para crear aplicaciones móviles. Algunos de mis proyectos son:
 
 Una página web para el instituto técnico Aquilio Parra de Barichara Santander, donde se puede encontrar información sobre la institución, publicar blogs y álbumes de los eventos, y registrar usuarios. Un panel de administración para un taller de reparación llamado El Junco, con sistema de facturación y seguimiento de máquinas por estados. Usé Firebase como base de datos, lo que me permitió tener datos en tiempo real y una fácil implementación. Hermes, una aplicación en React Native que ofrece el servicio de comunicación entre el domiciliario y el cliente que solicita el domicilio. Esta aplicación busca facilitar algo del día a día y permitir tener una experiencia más fácil. Me apasiona el desarrollo web y móvil, y me motiva aprender cosas nuevas y resolver problemas. Mi objetivo es seguir creciendo como desarrollador y crear soluciones innovadoras y de valor.
 
