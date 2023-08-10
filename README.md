@@ -1,5 +1,3 @@
-<div align='center'><img src='banner perfil de github.png' alt='Banner del perfil' width='60%'/></div>
-
 # Bienvenido, Soy Jesus Donato Silva. 👋🏻
 
 Hola, soy un desarrollador ubicado en un pueblito de Santander, Colombia con sueños de ser full-stack. Estudié desarrollo de software en la Universidad Nacional Abierta y a Distancia. Me especializo en el front-end con HTML, CSS y JavaScript, y he usado React Native y Git/GitHub para crear aplicaciones móviles. Algunos de mis proyectos son:
@@ -14,7 +12,10 @@ Me apasiona el desarrollo web y móvil, y me motiva aprender cosas nuevas y reso
 **1. Educacion:**
 Actualmente estoy en el último año del tecnólogo en desarrollo de software en la UNAD donde estoy aprovechando para especializarme en el desarrollo web. Paralelamente, desarrollo un curso de Google en Diseño básico de UX (Certificado profesional de Diseño de Experiencia del Usuario (UX) de Google). Soy bachiller en el Instituto Técnico Aquileo Parra en 2018 🎓.
 
-**2. Hobbies:**
+**2. Cual es mi onjetivo**
+Principalmente quiero crear una experiencia amplia mejorar en lo que me apaciona que es la programación, es por eso que estoy buscando proyectos en los que pueda coloborar y adquirir nuevos conocimientos y habilidades tanto tecnicas como blandas ya que para mi el desarrollo de software no es lo saber porgramar si no el trabajar en equipo. 
+
+**3. Hobbies:**
 - Programar en mis tiempos libres.
 - Mantenerme informado de posibles tecnologías que puedo usar para lograr mis ideas.
 - Ampliar mi conocimiento y no solo en términos de la programación si no también del diseño.
