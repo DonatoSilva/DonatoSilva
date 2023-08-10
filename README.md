@@ -12,7 +12,7 @@ Me apasiona el desarrollo web y móvil, y me motiva aprender cosas nuevas y reso
 **1. Educacion:**
 Actualmente estoy en el último año del tecnólogo en desarrollo de software en la UNAD donde estoy aprovechando para especializarme en el desarrollo web. Paralelamente, desarrollo un curso de Google en Diseño básico de UX (Certificado profesional de Diseño de Experiencia del Usuario (UX) de Google). Soy bachiller en el Instituto Técnico Aquileo Parra en 2018 🎓.
 
-**2. Cual es mi onjetivo**
+**2. Cual es mi objetivo:**
 Principalmente quiero crear una experiencia amplia mejorar en lo que me apaciona que es la programación, es por eso que estoy buscando proyectos en los que pueda coloborar y adquirir nuevos conocimientos y habilidades tanto tecnicas como blandas ya que para mi el desarrollo de software no es lo saber porgramar si no el trabajar en equipo. 
 
 **3. Hobbies:**
