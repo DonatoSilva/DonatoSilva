@@ -53,6 +53,8 @@ Principalmente quiero crear una experiencia amplia mejorar en lo que me apaciona
 
 ## 🗃️ Proyectos
 
+> 🪧 En esta sección solo encontraran los proyectos mas recientes y que van enfocados en los lenguajes que yo manipulo, aun asi en mis repositorios encontraran diferentes softwares desarrollados como actividad academica en lenguajes como php, java o c#
+
 ### _El junco_
 **Enlace al repositorio:** [Click aqui](https://github.com/DonatoSilva/El-Junco.git)
 
