@@ -1,16 +1,15 @@
 # Bienvenido, Soy Jesus Donato Silva. 👋🏻
 
-Hola, soy un desarrollador ubicado en un pueblito de Santander, Colombia con sueños de ser full-stack. Estudié desarrollo de software en la Universidad Nacional Abierta y a Distancia. Me especializo en el front-end con HTML, CSS y JavaScript, y he usado React Native y Git/GitHub para crear aplicaciones móviles. Algunos de mis proyectos son:
+Hola, soy un desarrollador ubicado en un pueblito de Santander, Colombia con sueños de ser *Full-stack*. Estudié desarrollo de software en la Universidad Nacional Abierta y a Distancia. Me especializo en el *Frontend* con HTML, CSS y JavaScript, y Tecnologias como Astro framework. Algunos de mis proyectos son:
 
-- Una página web para el instituto técnico Aquilio Parra de Barichara, Santander, donde se puede encontrar información sobre la institución, publicar blogs y álbumes de los eventos, y registrar usuarios.
+- Una página web para el instituto técnico Aquilio Parra de Barichara.
 - Un panel de administración para un taller de reparación llamado El Junco, con sistema de facturación y seguimiento de máquinas por estados. Usé Firebase como base de datos, lo que me permitió tener datos en tiempo real y una fácil implementación.
-- Hermes, una aplicación en React Native que ofrece el servicio de comunicación entre el domiciliario y el cliente que solicita el domicilio. Esta aplicación busca facilitar algo del día a día y permitir tener una experiencia más fácil.
 
-Me apasiona el desarrollo web y móvil, y me motiva aprender cosas nuevas y resolver problemas. Mi objetivo es seguir creciendo como desarrollador y crear soluciones innovadoras y de valor. Si quieres contactarme, puedes escribirme a mi correo electrónico o seguirme en mis redes sociales. También puedes visitar mi sitio web, donde encontrarás mi portafolio y mi blog..
+Mi objetivo es seguir creciendo como desarrollador y crear soluciones innovadoras y de valor. Si quieres contactarme, puedes escribirme a mi correo electrónico o a mi Whatsapp.
 
 ## 🧑🏻 Mas sobre mi
 **1. Educacion:**
-Actualmente estoy en el último año del tecnólogo en desarrollo de software en la UNAD donde estoy aprovechando para especializarme en el desarrollo web. Paralelamente, desarrollo un curso de Google en Diseño básico de UX (Certificado profesional de Diseño de Experiencia del Usuario (UX) de Google). Soy bachiller en el Instituto Técnico Aquileo Parra en 2018 🎓.
+Actualmente estoy en el último año del tecnólogo en desarrollo de software en la UNAD donde estoy aprovechando para especializarme en el desarrollo web. Paralelamente, desarrollo un curso de Google en Diseño básico de UX (Certificado profesional de Diseño de Experiencia del Usuario (UX) de Google).
 
 **2. Cual es mi objetivo:**
 Principalmente quiero crear una experiencia amplia mejorar en lo que me apaciona que es la programación, es por eso que estoy buscando proyectos en los que pueda coloborar y adquirir nuevos conocimientos y habilidades tanto tecnicas como blandas ya que para mi el desarrollo de software no es lo saber porgramar si no el trabajar en equipo. 
@@ -73,11 +72,7 @@ Principalmente quiero crear una experiencia amplia mejorar en lo que me apaciona
   <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_19213_127.0.0.1.jpeg' alt='inicio de sesion' width='45%'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191551_127.0.0.1.jpeg' alt='inicio de sesion' width='45%'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191719_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191626_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_191644_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/> <img src='/Capturas (EL JUNCO)/Captura web_1-8-2023_19249_127.0.0.1.jpeg' alt='inicio de sesion' width='200px'/>
 </div>
 
-> ℹ️ Actualmente el proyecto continua en **_DESARROLLO_**.
-
-### _Hermes_
-
-> ⚠️ Actualmente esta en **Desarrollo**
+> ℹ️ Se cancelo el proyecto
 
 ### _Pagina Itap_
 **Descripcion:** Proyecto desarrollado en grupo entre el inicio del año 2017 y 2018, el cual trataba de una página web donde se pudiera transmitir la esencia del Instituto Técnico Aquileo Parra. Se logró contar con un diseño adaptativo pero simple, un registro de usuario, un apartado de blog (**Noticias**) y un apartado para galería de los eventos institucionales realizados. Se utilizaron tecnologías como Ruby, CSS, JavaScript y HTML. Mi poca experiencia en ese tiempo causó que su desarrollo fuera poco eficiente y la complejidad de manipulación para los administradores fuera muy grande. Como experiencia propia, fue mi primer proyecto que alcanzó a subir a un servidor con dominio propio.. 
