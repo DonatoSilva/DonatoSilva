@@ -26,8 +26,7 @@ Principalmente quiero crear una experiencia amplia mejorar en lo que me apaciona
 | N° | Languages |
 |-----:|-----------|
 |     1| Javascript|
-|     2| React Native|
-|     3| CSS       |
+|     2| CSS       |
 |     4| HTML      |
 </details>
 
@@ -37,6 +36,7 @@ Principalmente quiero crear una experiencia amplia mejorar en lo que me apaciona
 | N° | Nombre |
 |-----:|-----------|
 |     1|Bootstrap  |
+|     2|Tailwind CSS |
 </details>
 
 <details>
