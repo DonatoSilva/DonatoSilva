@@ -148,13 +148,3 @@
     </tr>
   </table>
 </div>
-
-###
-<br>
-<h3 align="center">🔥 My Stats </h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DonatoSilva&locale=es&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
