@@ -148,3 +148,25 @@
     </tr>
   </table>
 </div>
+
+###
+<br>
+<h3 align="left">🧑🏻 Sobre mí</h3>
+<p>
+  Durante mi trayecto en el desarrollo web, he tenido la oportunidad de aplicar mis capacidades en proyectos propios que se enfocan en la creación de páginas web interactivas y funcionales. Enfocándome en la experiencia del usuario y la accesibilidad de las páginas, eso me ha llevado a adquirir experiencia y realizar cursos en diferentes tecnologías para dar solución a problemas reales.
+
+  Por otra parte, gracias a mi universidad, he participado en torneos (campeonatos) de lógica de programación, destacando entre los primeros puestos y logrando mejorar mi trabajo en equipo.
+</p>
+
+###
+
+###
+<br>
+<h3 align="left">Otros conocimientos</h3>
+<p>
+  - Consultas básicas de SQL <br>
+  - Diseño de bases de datos <br>
+  - Diseño de páginas web <br>
+  - Diseño de interfaces <br>
+  - Despliegue de aplicaciones en Vercel<br>
+</p>
